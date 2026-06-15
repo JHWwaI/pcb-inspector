@@ -1,0 +1,2 @@
+﻿image_set,images,instances,mAP50,mAP50_95,precision,recall
+DsPCBSD+ val,2051,4092,0.8431,0.5026,0.8359,0.7805
