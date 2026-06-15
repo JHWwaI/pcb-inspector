@@ -1,0 +1,5 @@
+-r requirements.txt
+# Used by export_onnx.py (PyTorch -> ONNX) and validate_map.py (mAP re-validation).
+ultralytics==8.3.0
+# Used by build_exe.bat / build_app_mac.sh to produce the standalone executable.
+pyinstaller==6.11.1

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+# PyInstaller
+build/
+dist/
+*.spec
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Secrets / local
+.env
+*.log
+# Portfolio document generators (not project code)
+docs/*.js
+docs/gen_*.py
+docs/edit_*.py
